@@ -1,5 +1,5 @@
 - Hi, I’m @iilnaz
-- Tg: @Molodoy_epta
+- Tg: @bruhmanov
 
 <!---
 iilnaz/iilnaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
